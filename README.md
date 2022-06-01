@@ -1,5 +1,5 @@
 # HPS-Home-Protection-System-
-This is Project for EC3702 Real-Time Operating System. This project focus on to built a home protection system to identify if a intruder try to broke a house. We are using a web server to control this system. This system may able to detect any motion in praticular area and notify it to the owner. This sytem contain with mainly three different parts.
+This is Project for EC3702 Real-Time Operating System. This project focus on to built a home protection system to identify if a intruder try to broke a house. We are using a web server to control this system. This system detect any motion in praticular area and notify it to the owner. This sytem contain with mainly three different parts.
 
                    - Detection Parts
                    - Alarming
