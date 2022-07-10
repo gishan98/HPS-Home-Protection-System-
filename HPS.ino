@@ -10,6 +10,7 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
+//WiFi Password
 #define WIFI_SSID "Imantha"
 #define WIFI_PASSWORD "12345678"
 
@@ -27,7 +28,7 @@ float floatValue;
 bool signupOK = false;
 
 const int buzzerPin = 14;  // 6 corresponds to GPIO14
-const int ledPin  = 12;  // 5 corresponds to GPIO12
+const int ledPin  = 12;    // 5 corresponds to GPIO12
 const int pir = 2;
 unsigned int PIR;
 
